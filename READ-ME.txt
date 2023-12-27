@@ -1,0 +1,9 @@
+  =>  Project Name    :   Waste Food Management (HungerBite)
+
+  =>  Group_Name    : Sakashi,Amarjeet,Shivam,Pragya
+
+  =>  Project Author  : groups_name
+
+  =>  Project Aims : Food Provide For each People, Who can't Achive Food Daily  
+
+  =>  Project In progress : its application after Comming soon
